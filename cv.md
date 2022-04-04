@@ -39,5 +39,3 @@ console.log(test);
 + English - upper intermediate
 + German - intermediate
 ***
-![Alt-photo](https://media-exp1.licdn.com/dms/image/C4E03AQFQWc1zYKVAhw/profile-displayphoto-shrink_800_800/0/1516607985180?e=1646870400&v=beta&t=kDDvEGhpT5Zwlypc4HgnV7i9QTOFMafAJSGUCPshvSI)
-***
