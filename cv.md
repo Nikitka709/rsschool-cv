@@ -21,8 +21,7 @@ I believe, that my ability to learn and to gain new skills together with RSSchol
 + Git, GitHub
 + VS Code, Brackets
 ***
-## Code example (the example has been taken from https://developer.mozilla.org/):
-**Static examples:** By static examples, we are talking about static code blocks that show how a feature might be used in code. These are put on a page using Markdown "code fences", as described in Example code blocks. An example result might look like this:  
+## Code example (the example has been taken from https://developer.mozilla.org/):  
 ```
 // This is a JS example
 var test = "Hello";
