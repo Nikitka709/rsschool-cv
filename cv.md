@@ -50,7 +50,7 @@ function formatDuration (seconds) {
 
 ### Education:
 
-* _Kazan Federal University: biochemistry **2007-2013**_
+* _Kazn Federal University: biochemistry **2007-2013**_
 
 ***
 
