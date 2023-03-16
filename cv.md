@@ -43,14 +43,14 @@ function formatDuration (seconds) {
 ***
 
 ### Work Experice:
-* _No yet_
+* _Not yet_
 * _[My CV Markdown](https://Nikitka709.github.io/rsschool-cv/cv)_
 
 ***
 
 ### Education:
 
-* _Kazan Federal University: biochemistry **2007-2013**_
+* _Kazan  Federal University: biochemistry **2007-2013**_
 
 ***
 
