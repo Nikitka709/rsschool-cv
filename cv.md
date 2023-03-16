@@ -43,7 +43,7 @@ function formatDuration (seconds) {
 ***
 
 ### Work Experice:
-* _Not yet_
+* _No yet_
 * _[My CV Markdown](https://Nikitka709.github.io/rsschool-cv/cv)_
 
 ***
