@@ -105,10 +105,10 @@
           </div>
           <p>Returning the values as a string-seperated sentence in the order of their keys' integer equivalent (increasing order):</p>
           <pre>
-            const sentence = list =>
+            const sentence = list =&gt
               list
-                .sort((a, b) => Object.keys(a)[0] - Object.keys(b)[0])
-                .map(item => Object.values(item)[0])
+                .sort((a, b) =&gt Object.keys(a)[0] - Object.keys(b)[0])
+                .map(item =&gt Object.values(item)[0])
                 .join(' ')
           </pre>
         </section>
